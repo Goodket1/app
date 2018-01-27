@@ -1,0 +1,13 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "team 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "simple-test-framework": "^0.1.7"
+  }
+}
