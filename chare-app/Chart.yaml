@@ -2,13 +2,13 @@ name: node
 version: 0.2.7
 description: Event-driven I/O server-side JavaScript environment based on V8
 keywords:
-- nodetest
-- javascript
+  - nodetest
+  - javascript
 home: http://nodejs.org/
 sources:
-- https://github.com/bitnami/bitnami-docker-node
-maintainers:
-- name: Bitnami
-  email: test@bitnami.com
+  - https://github.com/bitnami/bitnami-docker-node
+maintainers
+  - name: Bitnami
+    email: test@bitnami.com
 engine: gotpl
 icon: https://bitnami.com/assets/stacks/nodejs/img/nodejs-stack-110x117.png
